@@ -42,7 +42,7 @@ three parts: a PIR sensor, an Arduino, and an HC05 Bluetooth transmitter
 module. A Dc fan, Arduino, and HC05 Bluetooth module would make up the
 receiver
 
-# Circuit Diagram  
+#circuit 
 ## Master Part
 ![System](Images/MasterCircuit.PNG)
 
